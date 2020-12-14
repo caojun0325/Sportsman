@@ -1,0 +1,23 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://wodudi-7gxbypum2f662ad8.776f-wodudi-7gxbypum2f662ad8-1303810624/1605851413590.jpg"></image>
+<text class="text">徒手练习</text>
+<text>{{contents}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片20.png"></image>
+<text class="text"> </text>
+<text>{{content1s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片21.png"></image>
+<text class="text"></text>
+<text>{{content2s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片22.png"></image>
+<text class="text"> </text>
+<text>{{content3s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片23.png"></image>
+<text class="text"> </text>
+<text>{{content4s}}</text>
+</view>
+</view>
+</view>
+
+

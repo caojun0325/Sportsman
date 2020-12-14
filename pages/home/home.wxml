@@ -1,0 +1,56 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="title">下肢训练 </view>
+<view >
+<image src="/images/only.jpg">add the botton</image>
+</view>
+<scroll-view scroll-x scroll-y>
+</scroll-view>
+<view class="absolute1"bindtap="absolute1">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="5000"
+hover-class="btn_style"
+top='2'>1</button>
+</view> 
+<view class="absolute2"bindtap="absolute2">
+<button size='mini'
+type='primary'
+plain='true'
+form-type='submit'
+loasing='true'
+hover-start-time='100'
+hover-stay-time="5000"
+hover-class="btn_style"
+top='2'>2</button>
+</view> 
+
+<view class="absolute4"bindtap="absolute4">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="5000"
+hover-class="btn_style"
+top='2'>3</button>
+</view> 
+<view class="absolute5"bindtap="absolute5">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="5000"
+hover-class="btn_style"
+top='2'>4</button>
+</view>
+
+</view>
+</view>

@@ -1,0 +1,29 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://wodudi-7gxbypum2f662ad8.776f-wodudi-7gxbypum2f662ad8-1303810624/1605846964031.jpg"></image>
+<text class="text">哑铃卧推</text>
+<text>{{contents}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片14.png"></image>
+<text class="text"> </text>
+<text>{{content1s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片15.png"></image>
+<text class="text"> </text>
+<text>{{content2s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片16.png"></image>
+<text class="text"> </text>
+<text>{{content3s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片17.png"></image>
+<text class="text"> </text>
+<text>{{content4s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片18.png"></image>
+<text class="text"> </text>
+<text>{{content5s}}</text>
+</view>
+</view>
+</view>
+
+
+
+
+

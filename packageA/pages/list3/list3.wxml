@@ -1,0 +1,19 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://wodudi-7gxbypum2f662ad8.776f-wodudi-7gxbypum2f662ad8-1303810624/1605847542779.jpg" class="pic"></image>
+<text class="same">史密斯深蹲</text>
+<text>{{content1s}}</text>
+<text>{{contents}}</text>
+
+<text class="same"> </text>
+<text>{{content2s}}</text>
+<text class="same"> </text>
+<text>{{content3s}}</text>
+<text class="same"> </text>
+<text>{{content4s}}</text>
+<text class="same"> </text>
+</view>
+</view>
+</view>
+

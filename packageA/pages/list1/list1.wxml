@@ -1,0 +1,14 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://wodudi-7gxbypum2f662ad8.776f-wodudi-7gxbypum2f662ad8-1303810624/1605847435516.jpg" class="pic"></image>
+<text class="duan">锻炼方法</text>
+<text class="same">弹力带提踵</text>
+
+<text>{{contents}}</text>
+<text class="same"> </text>
+<text>{{content1s}}</text>
+</view>
+</view>
+</view>
+

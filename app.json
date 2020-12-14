@@ -1,0 +1,84 @@
+{
+  "pages": [
+    "pages/plan/plan",
+    "pages/grade/grade",
+    "pages/run/run",
+    "pages/home/home",
+    "pages/one/one",
+    "pages/test/test",
+    "pages/air/air",
+    "pages/ps/ps",
+    "pages/fp/fp",
+    "pages/ofp/ofp",
+    "pages/zc/zc",
+    "pages/err/err",
+    "pages/bitfp/bitfp",
+    "pages/addTodo/addTodo",
+    "pages/weather_forecast/weather_forecast"
+  ],
+  "subPackages": [
+    {
+      "root": "packageA",
+      "pages": [
+        "pages/im/im",
+        "pages/im/room/room",
+        "pages/list1/list1",
+        "pages/list2/list2",
+        "pages/list3/list3",
+        "pages/list4/list4",
+        "pages/list5/list5",
+        "pages/fa/fa",
+        "pages/ar/ar",
+        "pages/tu/tu",
+        "pages/th/th",
+        "pages/sh/sh"
+      ]
+    }
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序天气接口的效果展示"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Wechat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/plan/plan",
+        "text": "运动计划",
+        "iconPath": "icon/计划.png",
+        "selectedIconPath": "icon/_计划.png"
+      },
+      {
+        "pagePath": "pages/run/run",
+        "text": "GPS定位",
+        "iconPath": "icon/定位.png",
+        "selectedIconPath": "icon/_定位.png"
+      },
+      {
+        "pagePath": "pages/one/one",
+        "text": "运动建议",
+        "iconPath": "icon/建议.png",
+        "selectedIconPath": "icon/_建议.png"
+      },
+      {
+        "pagePath": "pages/weather_forecast/weather_forecast",
+        "text": "天气",
+        "iconPath": "icon/天气.png",
+        "selectedIconPath": "icon/_天气.png"
+      },
+      {
+        "pagePath": "pages/grade/grade",
+        "text": "我的成绩",
+        "iconPath": "icon/我的.png",
+        "selectedIconPath": "icon/_我的.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap80.json"
+}

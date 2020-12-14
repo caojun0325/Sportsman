@@ -1,0 +1,57 @@
+.title{
+  color:rgb(118, 198, 212);
+  font-size:47px;
+  text-align: center;
+  }
+  
+  image{
+  height: 1000rpx;
+  width: 100%;
+  display: block;
+  } 
+  
+  .absolute1{
+  position: absolute;
+  top: 700rpx;
+  left: 200rpx; 
+  }
+  .absolute2{
+  position: absolute;
+  top: 1030rpx;
+  left: 450rpx;
+  }
+  .absolute3{
+  position: absolute;
+  top: 103rpx;
+  left: 450rpx;
+  }
+  .absolute4{
+  position: absolute;
+  top: 700rpx;
+  left: 270rpx;
+  }
+  .absolute5{
+  position: absolute;
+  top: 900rpx;
+  left: 450rpx;
+  }
+  .absolute6{
+  position: absolute;
+  top: 850rpx;
+  left: 250rpx;
+  }
+  .absolute7{
+  position: absolute;
+  top: 900rpx;
+  left: 450rpx;
+  }
+  .absolute8{
+  position: absolute;
+  top: 1030rpx;
+  left: 260rpx;
+  }
+  .absolute9{
+  position: absolute;
+  top: 10rpx;
+  left: 450rpx;
+  }

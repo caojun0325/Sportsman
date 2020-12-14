@@ -1,0 +1,13 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="title">上肢训练 </view>
+<image src="/images/2.png" class="pic"></image>
+<view>
+<button bindtap="ar" class="arm2" size='mini' plain='true'>1</button>
+<button bindtap="ar" class="arm1" size='mini' plain='true'>1</button>
+<button bindtap="tu" class="tum" size='mini' plain='true'>3</button>
+<button bindtap="th" class="thi1" size='mini' plain='true'>2</button>
+<button bindtap="th" class="thi2" size='mini' plain='true'>2</button>
+</view>
+</view>
+</view>

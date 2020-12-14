@@ -1,0 +1,28 @@
+<form bindsubmit="formSubmit" bindreset="formReset">
+<view class="section">
+    <view class="section__title"> 身高</view>
+  </view>
+<view class="sectionp">
+   <input id="ht" name="height" placeholder="请输入身高（m）" />
+ </view>
+ 
+  <view class="section">
+    <view class="section__title"> 体重</view>
+  </view>
+<view class="sectionp">
+  <input id="wt" name="weight" placeholder="请输入体重（kg）" />
+</view>
+
+  <view class="section section_gap">
+    <view class="section__title">性别</view>
+    <radio-group id="sex" name="sex"S>
+      <label><radio value="男"/>男</label>
+      <label><radio value="女"/>女</label>
+    </radio-group>
+  </view>
+
+  <view >
+    <button class="btn-area" formType="submit">提交</button>
+    <button class="btn-area" formType="reset">Reset</button>
+  </view>
+</form>
